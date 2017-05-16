@@ -24,5 +24,11 @@ This is a guide to make debian looks like macOs. (tested with cinnamon)
   3.6 - Go to System Settings - Themes - Other settings -> Select macOs Sierra-master in control and window borders.
   
   ICON
+  
+  Icon can be download from “Vivacious-NonMono-Light-Blue” or from https://github.com/ActusOS/GnomeYosemiteIcons. Alternative use default elementaryXbuntu.
+  
   3.7 - Go to System Settings - Themes - Other settings - icon -> Select elementaryXbuntu-dark.
   
+
+Thanks to:
+http://www.makeuseof.com/tag/make-linux-look-like-macos/
